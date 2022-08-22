@@ -1,0 +1,10 @@
+# Ignore Mac system files
+.DS_store
+
+*.ipynb_checkpoints
+
+.vscode
+
+*.csv
+*.tsv
+*.db
