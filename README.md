@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microsoft Movie Pitch Project
 Author: Trystan Knowles & Jalil Sarwari
 
@@ -31,3 +32,9 @@ README.md includes concise summary of project with all data science steps
 README.md links to presentation and sources
 README.md includes instructions for navigating the repository
 
+=======
+# Trystan_Jalil_phase1_project
+
+
+asdjfads
+>>>>>>> bdacbcd532d316c3d64065393e288603f85e5fb8
